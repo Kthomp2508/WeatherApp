@@ -19,6 +19,8 @@ body {
 
 li {
   list-style: none;
+  font-size: larger;
+  margin: 80px;
 }
 
 .celsiusLink {
@@ -55,6 +57,13 @@ li {
 }
 .forecast-temp-low {
   opacity: 0.6;
+}
+
+.gitHubLink {
+  text-align: center;
+  display: block;
+  margin-top: 100px;
+  font-size: smaller;
 }
 
 
