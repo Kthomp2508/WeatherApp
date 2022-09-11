@@ -1,0 +1,61 @@
+body {
+  font-family: "Comfortaa", cursive;
+  margin: 40px 100px;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(253, 239, 132) 0%,
+    rgb(247, 198, 169) 54.2%,
+    rgb(21, 186, 196) 100.3%
+  );
+}
+
+.temp {
+  font-size: 40px;
+}
+
+.otherInfo {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+.celsiusLink {
+  text-decoration: none;
+}
+
+.fahrenheitLink {
+  text-decoration: none;
+}
+
+.active {
+  color: black;
+  cursor: default;
+  text-decoration: none;
+}
+
+.weather-forecast {
+  text-align: center;
+  margin: 40px 300px;
+}
+
+.forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.forecast-date {
+  font-size: 20px;
+  text-align: center;
+}
+
+.forecast-temp {
+  font-size: 16px;
+}
+.forecast-temp-low {
+  opacity: 0.6;
+}
+
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
